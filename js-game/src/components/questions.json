@@ -1,0 +1,84 @@
+[
+    {
+      "question": "What is the syntax for an if statement in JavaScript?",
+      "options": ["if () { }", "if {} ()", "if ()"],
+      "answer": "if () { }"
+    },
+    {
+      "question": "What is the syntax for an if-else statement in JavaScript?",
+      "options": ["if () { } else { }", "if () else { }", "if {} () else {} ()"],
+      "answer": "if () { } else { }"
+    },
+    {
+      "question": "What is the syntax for a switch statement in JavaScript?",
+      "options": [
+        "switch () { case: break; }",
+        "switch {} () { case {} (): break; }",
+        "switch () { case: }"
+      ],
+      "answer": "switch () { case: break; }"
+    },
+    {
+      "question": "What is the purpose of the 'break' keyword in a switch statement?",
+      "options": [
+        "To exit the switch statement",
+        "To continue to the next case",
+        "To skip the current case"
+      ],
+      "answer": "To exit the switch statement"
+    },
+    {
+      "question": "What is the purpose of the 'default' case in a switch statement?",
+      "options": [
+        "To provide a fallback option if none of the other cases match",
+        "To provide an alternative case to execute if the condition is true",
+        "To exit the switch statement if none of the other cases match"
+      ],
+      "answer": "To provide a fallback option if none of the other cases match"    },
+    {
+      "question": "What is the syntax for a ternary operator in JavaScript?",
+      "options": [
+        "condition ? trueExpression : falseExpression",
+        "condition : trueExpression ? falseExpression",
+        "condition (trueExpression) : (falseExpression)"
+      ],
+      "answer": "condition ? trueExpression : falseExpression"
+    },
+    {
+      "question": "What is the purpose of the '&&' operator in JavaScript?",
+      "options": [
+        "To perform a logical AND operation",
+        "To perform a logical OR operation",
+        "To perform a logical NOT operation"
+      ],
+      "answer": "To perform a logical AND operation"
+    },
+    {
+      "question": "What is the purpose of the '||' operator in JavaScript?",
+      "options": [
+        "To perform a logical OR operation",
+        "To perform a logical AND operation",
+        "To perform a logical NOT operation"
+      ],
+      "answer": "To perform a logical OR operation"
+    },
+    {
+      "question": "What is the purpose of the '!' operator in JavaScript?",
+      "options": [
+        "To perform a logical NOT operation",
+        "To perform a logical AND operation",
+        "To perform a logical OR operation"
+      ],
+      "answer": "To perform a logical NOT operation"
+    },
+    {
+      "question": "What is the difference between '==' and '===' in JavaScript?",
+      "options": [
+        "'==' performs type coercion, while '===' does not",
+        "'===' performs type coercion, while '==' does not",
+        "Both '==' and '===' perform type coercion"
+      ],
+      "answer": "'==' performs type coercion, while '===' does not"
+    }
+  ]
+  
