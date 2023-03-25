@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position:absolute;
+    left: 0;
+    right: 0;
+    top: 30%;
+    
+  }
+  
+  .container strong {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  
+  .containerResult{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    height: 30%;
+    background-color: #28ba62;
+    font-size: 5px;
+  }
+
+  .Result-row *{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10em 0em 10em 0e;
+  }
+  .Result-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .Result-wraper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .font{
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
