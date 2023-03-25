@@ -1,0 +1,7 @@
+{
+  "name": "js-game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
