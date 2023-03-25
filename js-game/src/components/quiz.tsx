@@ -28,7 +28,7 @@ const Quiz: React.FC = () => {
 
   const handleNextClick = () => {
     setCurrentQuestionIndex((prevIndex) => prevIndex + 1);
-    
+
   };
 
   const handleFinishClick = () => {
