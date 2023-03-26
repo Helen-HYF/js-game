@@ -1,6 +1,6 @@
 # JS Functions Quiz
 
-[game link](https://640dab36f99e4b5b937019bd--adorable-cendol-ce3b37.netlify.app/)
+[game link](https://js-game-helen.netlify.app/)
 This quiz program, built with Ionic Framework and React, tests the user's knowledge of JavaScript Conditions.
 
 ## Features
@@ -27,5 +27,5 @@ The screen should display a theme based on whether the user passed or failed the
 - A "Try Again" button should be prominently displayed in the centre of  the screen.
 
 ![image](./public/assets/icon/image.png)
-![image](./public/assets/icon/image%20(1).png)
-![image](./public/assets/icon/image%20(2).png)
+![image](./public/assets/icon/image(1).png)
+![image](./public/assets/icon/image(2).png)
