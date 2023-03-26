@@ -27,5 +27,5 @@ The screen should display a theme based on whether the user passed or failed the
 - A "Try Again" button should be prominently displayed in the centre of  the screen.
 
 ![image](./public/assets/icon/image.png)
-![image](./public/assets/icon/image(1).png)
-![image](./public/assets/icon/image(2).png)
+![image](./public/assets/icon/image (1).png)
+![image](./public/assets/icon/image (2).png)
