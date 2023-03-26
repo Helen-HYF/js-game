@@ -1,6 +1,6 @@
 # JS Functions Quiz
 
-[game link](https://640dab36f99e4b5b937019bd--adorable-cendol-ce3b37.netlify.app/)
+[game link](https://js-game-helen.netlify.app/)
 This quiz program, built with Ionic Framework and React, tests the user's knowledge of JavaScript Conditions.
 
 ## Features
