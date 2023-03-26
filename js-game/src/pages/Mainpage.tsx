@@ -13,7 +13,6 @@ import React from "react";
     return (
       <IonPage>
         <IonContent fullscreen>
-        
           <Quiz />
         </IonContent>
       </IonPage>

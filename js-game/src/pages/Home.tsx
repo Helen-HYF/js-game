@@ -22,7 +22,7 @@ const Home: React.FC = () => {
           </IonCard>
           <IonCard color={"success"}>
             <IonCardContent>
-              <IonButton color={"success"} routerLink="/Mainpage">
+              <IonButton color={"success"} routerLink="/mainpage">
                 <h1>Start</h1>
               </IonButton>
             </IonCardContent>
